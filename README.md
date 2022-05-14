@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @senpaiswagger
 - 👀 I’m interested in coding and engineering
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning python coding
 - 💞️ I’m looking to collaborate on coding knowledge
 - 📫 How to reach me email: mccayje@gmail.com
 
